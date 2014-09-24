@@ -31,18 +31,12 @@ h6, .h6 {
 }
 
 .navbar-brand {
-color: #fff;
-font-size: 1.2em;
-padding-right: 50px;
-}
-
-.navbar-brand {
 float: left;
 height: 50px;
 padding: 15px 15px;
 font-size: 24px;
 line-height: 20px
- color: white;
+color: #ffffff;
 }
 /*
  * Masthead for nav
